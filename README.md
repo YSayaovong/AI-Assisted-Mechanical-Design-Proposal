@@ -14,3 +14,9 @@ Any cycle-time reductions, cost savings, rework improvements or ROI in the prese
 
 ## Next validation steps
 Document a synthetic input/output example, cite permitted source material, define an acceptance checklist and compare reviewed outputs with a manual baseline. Publish measured results only after testing. Do not enter confidential drawings or specifications into external tools.
+
+
+## Portfolio placement and file check
+This is supplementary concept work. The Data Analyst resume features the BOM data-quality and scrap-analysis projects instead. No AI Engineer employment or implemented automation is claimed.
+
+Run `python scripts/check_artifacts.py` to inspect the PPTX archive and generate `reports/artifact_check.json`. This checks presentation structure, not slide claims, projected ROI or model performance.

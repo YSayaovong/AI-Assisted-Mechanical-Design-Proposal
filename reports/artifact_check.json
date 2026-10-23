@@ -1,0 +1,39 @@
+{
+  "artifact": "AI_Assisted_Mechanical_Design_Proposal.pptx",
+  "slide_count": 8,
+  "scope": "Presentation structure checked; no CAD integration or ROI validation performed",
+  "slides": [
+    {
+      "slide_xml": "ppt/slides/slide1.xml",
+      "text_runs": 21
+    },
+    {
+      "slide_xml": "ppt/slides/slide2.xml",
+      "text_runs": 12
+    },
+    {
+      "slide_xml": "ppt/slides/slide3.xml",
+      "text_runs": 17
+    },
+    {
+      "slide_xml": "ppt/slides/slide4.xml",
+      "text_runs": 23
+    },
+    {
+      "slide_xml": "ppt/slides/slide5.xml",
+      "text_runs": 24
+    },
+    {
+      "slide_xml": "ppt/slides/slide6.xml",
+      "text_runs": 52
+    },
+    {
+      "slide_xml": "ppt/slides/slide7.xml",
+      "text_runs": 15
+    },
+    {
+      "slide_xml": "ppt/slides/slide8.xml",
+      "text_runs": 19
+    }
+  ]
+}
