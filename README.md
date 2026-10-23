@@ -1,9 +1,9 @@
-# AI-Assisted Mechanical Design — Business Case and Pilot Proposal
+# AI-Assisted Mechanical Design Proposal
 ## Status
 Independent concept study, not an implemented CAD automation system or completed workplace pilot.
 
 ## Included files
-- `AI_UseCase_MechDesigner.pptx`: presentation containing the proposed workflow and business case.
+- `AI_Assisted_Mechanical_Design_Proposal.pptx`: presentation containing the proposed workflow and business case.
 - `README.md`: scope and evidence boundaries.
 
 ## Proposed use case
